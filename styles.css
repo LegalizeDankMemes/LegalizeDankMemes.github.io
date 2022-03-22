@@ -1,0 +1,11 @@
+header {background-color: #333333; margin: auto; padding:16px 10% ; }
+body{background-image:url(assets/background.png) ; margin: 0;}
+main{padding: 5% 10%;}
+nav{float: right; text-align: right; padding: 8px;}
+a {color:#ff0099;margin: 8px;  }
+#separator {font-size: 32px; text-align: center;}
+#wiki {text-align: center;}
+#title {color:#ff0099;}
+p{font-family: 'Courier New', Courier, monospace;font-size:large ;}
+h3{font-family: 'Roboto', sans-serif;font-size: x-large;}
+h2{font-family: 'Fredoka', sans-serif;font-size:xx-large;}
